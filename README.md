@@ -86,7 +86,7 @@ The files are then extracted for data using a pretty neat library called <a href
 
 Once done, we get the following outputs. Each section comes with a description of each of our steps, making it easier to follow along
 
-In order to get the following input we used the ```ch2_xsm_20211111_v1_level2.lc``` file under the ```data``` directory [here](https://github.com/Heimdallr-Rig/MP_ISRO_T8/tree/main/data)
+In order to get the output shown below we used the ```ch2_xsm_20211111_v1_level2.lc``` file under the ```data``` directory [here](https://github.com/Heimdallr-Rig/MP_ISRO_T8/tree/main/data)
 
 ### Section 1: Raw Data Input
 Here we visualise the data with a graph to plot the raw data before any processing
