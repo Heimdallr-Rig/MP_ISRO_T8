@@ -18,7 +18,7 @@ Team: **MP_ISRO_T8**
 
 
 ## Installation
-### Prerequistes
+### Prerequisites
 An active internet connection is required to run the application, unless you build the application from source. In order to build application from source, click [here](#local-setup)
 ### Windows
 1. Download and unzip the zip file from [here](https://drive.google.com/drive/folders/1v8izoqzm3gI1KHPVqUfHHnEvnoVlucB-?usp=sharing)
@@ -40,7 +40,7 @@ cd Heimdall-linux-x64
 ```
 
 ## Local Setup
-### Prerequistes
+### Prerequisites
 1. Python3
 
 ### Setup
