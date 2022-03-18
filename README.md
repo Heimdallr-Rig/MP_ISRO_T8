@@ -106,7 +106,7 @@ Here we visualize the data with a graph to plot the raw data before any proccess
 
 ## Features
 
-Heimdall being a web app has dynamic graphs that are interactive, improving accessibility by supporting dragging and scrolling. You can also hover your mouse over points on the graph to view it's co-ordinate, making the analysis very easy
+Heimdall being a web app has dynamic graphs that are interactive, improving accessibility by supporting dragging and scrolling. You can also hover your mouse over points on the graph to view it's co-ordinates.
 
 ![gif](https://user-images.githubusercontent.com/59011370/159001213-2f3d8976-0ce8-4bea-abb7-5f154fbe6bdd.gif)
 
