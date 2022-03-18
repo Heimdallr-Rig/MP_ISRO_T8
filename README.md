@@ -84,6 +84,12 @@ The files are then extracted for data using a pretty neat library called <a href
 
 ![image](https://user-images.githubusercontent.com/59011370/159001786-a3c85b1b-b82e-4317-ae21-148c4ece3fe4.png)
 
+### Once the files are uploaded
+To know if the app is processing your data, look at the upper right corner to see the status of your upload
+
+![IMG_0649](https://user-images.githubusercontent.com/101874499/159060252-43ea86cf-3199-4c38-865a-d9fbf31ad569.jpg)
+
+
 Once done, we get the following outputs. Each section comes with a description of each of our steps, making it easier to follow along
 
 In order to get the output shown below we used the ```ch2_xsm_20211111_v1_level2.lc``` file under the ```data``` directory [here](https://github.com/Heimdallr-Rig/MP_ISRO_T8/tree/main/data)
@@ -113,3 +119,4 @@ Heimdall being a web app has dynamic graphs that are interactive, improving acce
 ## Documentation
 
 Visit https://bevel-bass-f2e.notion.site/Project-Heimdall-252649f8745b441d88cc9173f43179bc for more details
+
