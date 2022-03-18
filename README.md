@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-6. On successfull deployment you should get the following output. Click on the Local URL to open the application in your browser
+6. On successful deployment you should get the following output. Click on the Local URL to open the application in your browser
 ```
   You can now view your Streamlit app in your browser.
 
@@ -80,7 +80,7 @@ Once the app is up and running , you'll be welcomed with a very simple welcome s
 We support the following file extensions:
 ``` lc, csv, ascii, txt, xls, xlsv, xlsm, xlsb, odf, odt ```
 
-The files are then extracted for data using a pretty neat library called <a href="https://www.astropy.org/">Astropy</a>. This data is then further processed using various methods and processed. A brief in
+The files are then extracted for data using a pretty neat library called <a href="https://www.astropy.org/">Astropy</a>. This data is then further processed using various methods and processed. 
 
 ![image](https://user-images.githubusercontent.com/59011370/159001786-a3c85b1b-b82e-4317-ae21-148c4ece3fe4.png)
 
@@ -89,7 +89,7 @@ Once done, we get the following outputs. Each section comes with a description o
 In order to get the following input we used the ```ch2_xsm_20211111_v1_level2.lc``` file under the ```data``` directory [here](https://github.com/Heimdallr-Rig/MP_ISRO_T8/tree/main/data)
 
 ### Section 1: Raw Data Input
-Here we visualize the data with a graph to plot the raw data before any proccessing
+Here we visualise the data with a graph to plot the raw data before any processing
 
 ![raw_data_input](https://user-images.githubusercontent.com/59011370/158999454-13fde19d-3b5b-4be6-8877-76d1abff66cd.png)
 
