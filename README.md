@@ -58,7 +58,7 @@ virtualenv venv
 ```bash
 source venv/bin/activate
 ```
-4. Install dependecies using the following command
+4. ```cd``` into the repo and install dependecies using the following command
 ```bash
 pip install -r requirements.txt
 ```
